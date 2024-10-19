@@ -26,3 +26,11 @@ You can install the required Python packages using `pip`:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn scipy wntr
+
+### WNTR Installation:
+
+To run water network simulations using EPANET through **Pyseidon**, you need **WNTR** installed. You can install WNTR by running:
+
+```bash
+pip install wntr
+
