@@ -36,4 +36,22 @@ To run water network simulations using EPANET through **Pyseidon**, you need **W
 ```bash
 pip install wntr
 ```
+Alternatively, you can use package managers such as HomeBrew to install WNTR.
+
+### Cloning and Installation:
+
+Clone the **Pyseidon** repository from GitHub:
+
+```bash
+git clone https://github.com/your-repo/pyseidon.git
+```
+
+### Navigate to the project directory and install the library:
+
+```bash
+cd pyseidon
+pip install .
+```
+Once installed, you can start using Pyseidon for water demand analysis and simulations.
+
 
